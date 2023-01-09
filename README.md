@@ -1,12 +1,10 @@
 # Roger Pfäffli
 
 ## <Hello, World>
----
 
 I currently work as a DevOpsEngineer at Swisscom (Switzerland) Ltd. and I am a Full Stack Developer Student at Code Institute. My background relies in Networking, I am Cisco CCIE certified, amongst other networking related certificates. In 2022 I have decided to shift my career and focus on Software Development, hence this is the reason I started as a Studet at Code Institute.
 This is my "private" Repository, on which I host my projects, many of them as part of my journey with Code Institute.
 
----
 
 ### Programming Languages
 
