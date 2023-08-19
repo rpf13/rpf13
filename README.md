@@ -2,7 +2,7 @@
 
 ## <Hello, World>
 
-I currently work as a DevOpsEngineer at Swisscom (Switzerland) Ltd. and I am a Full Stack Developer Student at Code Institute. My background relies in Networking, I am Cisco CCIE certified, amongst other networking related certificates. In 2022 I have decided to shift my career and focus on Software Development, hence this is the reason I started as a Studet at Code Institute.
+I currently work as a DevOpsEngineer at Swisscom (Switzerland) Ltd. and I am a Full Stack Developer Student at Code Institute. My background relies in Networking, I am Cisco CCIE certified, amongst other networking related certificates. In 2022 I have decided to shift my career and focus on Software Development, hence this is the reason I started as a Student at Code Institute.
 This is my "private" Repository, on which I host my projects, many of them as part of my journey with Code Institute.
 
 
@@ -15,8 +15,12 @@ I'm currently working on getting a strong background in the following programmin
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
